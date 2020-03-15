@@ -1,12 +1,32 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import * as serviceWorker from "./serviceWorker";
+import { Layout } from "antd";
+import NavBar from "./NavBar";
+import SliderMenu from "./SliderMenu";
+import Feed from "./Feed";
 
-ReactDOM.render(<App />, document.getElementById('root'));
+const { Header, Footer, Sider, Content } = Layout;
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
+const MyLayout = () => {
+  return (
+    <Layout>
+      <Header>
+        <NavBar />
+      </Header>
+      <Layout>
+        <Sider>
+          <SliderMenu />
+        </Sider>
+        <Content>
+          <Feed />
+        </Content>
+      </Layout>
+      <Footer></Footer>
+    </Layout>
+  );
+};
+
+ReactDOM.render(<MyLayout />, document.querySelector("#root"));
 serviceWorker.unregister();
