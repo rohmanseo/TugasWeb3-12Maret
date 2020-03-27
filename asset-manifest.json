@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/WEB3A-431737-NUR-ROHMAN-REACT/static/css/main.35a29039.chunk.css",
+    "main.js": "/WEB3A-431737-NUR-ROHMAN-REACT/static/js/main.44bc65d6.chunk.js",
+    "main.js.map": "/WEB3A-431737-NUR-ROHMAN-REACT/static/js/main.44bc65d6.chunk.js.map",
+    "runtime-main.js": "/WEB3A-431737-NUR-ROHMAN-REACT/static/js/runtime-main.f610d7ce.js",
+    "runtime-main.js.map": "/WEB3A-431737-NUR-ROHMAN-REACT/static/js/runtime-main.f610d7ce.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/WEB3A-431737-NUR-ROHMAN-REACT/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.3ab9cfeb.chunk.js": "/WEB3A-431737-NUR-ROHMAN-REACT/static/js/2.3ab9cfeb.chunk.js",
+    "static/js/2.3ab9cfeb.chunk.js.map": "/WEB3A-431737-NUR-ROHMAN-REACT/static/js/2.3ab9cfeb.chunk.js.map",
+    "index.html": "/WEB3A-431737-NUR-ROHMAN-REACT/index.html",
+    "precache-manifest.123788f1231090ca3dbfa042f9acca3d.js": "/WEB3A-431737-NUR-ROHMAN-REACT/precache-manifest.123788f1231090ca3dbfa042f9acca3d.js",
+    "service-worker.js": "/WEB3A-431737-NUR-ROHMAN-REACT/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/WEB3A-431737-NUR-ROHMAN-REACT/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.35a29039.chunk.css.map": "/WEB3A-431737-NUR-ROHMAN-REACT/static/css/main.35a29039.chunk.css.map",
+    "static/js/2.3ab9cfeb.chunk.js.LICENSE.txt": "/WEB3A-431737-NUR-ROHMAN-REACT/static/js/2.3ab9cfeb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/WEB3A-431737-NUR-ROHMAN-REACT/static/media/intro2.976bdfb2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f610d7ce.js",
+    "static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.3ab9cfeb.chunk.js",
+    "static/css/main.35a29039.chunk.css",
+    "static/js/main.44bc65d6.chunk.js"
+  ]
+}
