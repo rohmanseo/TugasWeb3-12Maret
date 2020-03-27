@@ -1,9 +1,8 @@
 import React, { Component } from "react";
-import "./App.css";
+import "../App.css";
 import "antd/dist/antd.css";
 import { Row, Col,Input, Button, Divider,Card,Modal } from 'antd';
-
-
+import { Link } from "react-router-dom";
 
 class Footer extends React.Component{
     render(){
@@ -12,10 +11,9 @@ class Footer extends React.Component{
             <Row justify="end" align="middle" className="myFooter">
                 <Col span={6}>
                     <ul>
-                        <li><a href="#">FAQ</a></li>
-                        <li><a href="#">Feedback</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><Link to="/faq">FAQ</Link></li>
+                        <li><Link to="/about">About Us</Link></li>
+                        <li><Link to="/contact">Contact Us</Link></li>
                     </ul>
                 </Col>
             </Row>

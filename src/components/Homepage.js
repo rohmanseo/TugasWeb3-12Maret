@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./App.css";
+import "../App.css";
 import "antd/dist/antd.css";
 import { Row, Col,Input, Button, Divider,Card,Modal } from 'antd';
 import Header from "./Header";
@@ -11,7 +11,7 @@ const MainIntro = () => {
         <>
             <Row justify="center" align="middle" className="mainIntro">
                 <Col span={8}>
-                 <h1>The best free stock photos & videos shared by talented creators.</h1>
+                 <h1>The best free photos for everyone.</h1>
                 </Col>
             </Row>
         </>
@@ -37,9 +37,7 @@ const MainCategory = () => {
     );
 }
 
-
-
-class App extends Component{
+class Homepage extends Component{
     render(){
         return(
             <>
@@ -53,4 +51,4 @@ class App extends Component{
     }
 }
 
-export default App;
+export default Homepage;

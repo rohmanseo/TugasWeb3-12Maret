@@ -54,9 +54,9 @@ html{
   min-height: 66px;
   color: #FFFFFF;
   font-size: medium;
-  position: fixed;
+  position: sticky;
   width: 100%;
-  z-index: 99;
+  z-index: 0;
 }
 
 .myHeader a{
@@ -160,6 +160,8 @@ html{
   min-height: 66px;
   color: #FFFFFF;
   font-size: medium;
+  position: static;
+  bottom: 0;
 }
 .myFooter li{
   list-style-type: none;
