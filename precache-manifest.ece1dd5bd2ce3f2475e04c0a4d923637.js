@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bff9dfd45c6097e524f6fea37d9e6953",
+    "revision": "4339c84b7fd35800be719df940f702d3",
     "url": "/WEB3A-431737-NUR-ROHMAN-REACT/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WEB3A-431737-NUR-ROHMAN-REACT/static/css/2.1bd2ab2f.chunk.css"
   },
   {
-    "revision": "c1456eca84b2cbe3c39e",
+    "revision": "08dae04ce422ca5985c7",
     "url": "/WEB3A-431737-NUR-ROHMAN-REACT/static/css/main.35a29039.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WEB3A-431737-NUR-ROHMAN-REACT/static/js/2.3ab9cfeb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1456eca84b2cbe3c39e",
-    "url": "/WEB3A-431737-NUR-ROHMAN-REACT/static/js/main.44bc65d6.chunk.js"
+    "revision": "08dae04ce422ca5985c7",
+    "url": "/WEB3A-431737-NUR-ROHMAN-REACT/static/js/main.60a64c55.chunk.js"
   },
   {
     "revision": "d0c9f4ff36945eb522d3",
